@@ -37,16 +37,16 @@
     "id": "freeEventIcons",
     "title": "FREE Holiday & Event Icons",
     "shortDescription": "Icons of various Events and Holidays made as add-on for Icon Editor | Creator",
-    "category": "Tools",
-    "longDescription": "FREE Holiday & Event Icons is a free icon pack with seasonal event icons. Includes popular events such: Christmas, Chinese New Year, New Year, Valentines Day, Halloween, St. Patricks Day, Easter",
+    "category": "2D",
+    "longDescription": "is a free icon pack with seasonal event icons. Includes popular events such: Christmas, Chinese New Year, New Year, Valentines Day, Halloween, St. Patricks Day, Easter",
     "cover": "images/freeEventIcons/cover.png",
     "screenshots": [
       "images/freeEventIcons/screen1.png",
       "images/freeEventIcons/screen2.png",
       "images/freeEventIcons/screen3.png"
     ],
-    "unityLink": "https://assetstore.unity.com/packages/tools/utilities/devmenu-debug-console-298912",
-    "docsLink": "https://docs.google.com/document/d/1AGZlYf3myGBPNn5xtfwQr34YB7K9E7LnloBS7AguQhQ/edit?usp=sharing",
-    "changelogLink": "https://docs.google.com/document/d/1kyZCpijrNlAM4bxaDz91ZKuYue8OZ3ekJR1L_nR7PpA/edit?usp=sharing"
+    "unityLink": "https://prf.hn/click/camref:1101l4h3BC/pubref:publisherWebsite/ar:freeEventIcons/[p_id:1101l584176]/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F2d%2Fgui%2Ficons%2Ffree-holiday-event-icons-352420",
+    "docsLink": "",
+    "changelogLink": "https://docs.google.com/document/d/1PKtBB8uSdNHY5iPvgSZCeZfgXfBcg-pM5A5WJnTxYxI/edit?usp=sharing"
   }
 ]
