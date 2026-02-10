@@ -32,5 +32,21 @@
     "unityLink": "https://assetstore.unity.com/packages/tools/utilities/devmenu-debug-console-298912",
     "docsLink": "https://docs.google.com/document/d/1AGZlYf3myGBPNn5xtfwQr34YB7K9E7LnloBS7AguQhQ/edit?usp=sharing",
     "changelogLink": "https://docs.google.com/document/d/1kyZCpijrNlAM4bxaDz91ZKuYue8OZ3ekJR1L_nR7PpA/edit?usp=sharing"
+  },
+  {
+    "id": "freeEventIcons",
+    "title": "FREE Holiday & Event Icons",
+    "shortDescription": "Icons of various Events and Holidays made as add-on for Icon Editor | Creator",
+    "category": "Tools",
+    "longDescription": "FREE Holiday & Event Icons is a free icon pack with seasonal event icons. Includes popular events such: Christmas, Chinese New Year, New Year, Valentines Day, Halloween, St. Patricks Day, Easter",
+    "cover": "images/freeEventIcons/cover.png",
+    "screenshots": [
+      "images/freeEventIcons/screen1.png",
+      "images/freeEventIcons/screen2.png",
+      "images/freeEventIcons/screen3.png"
+    ],
+    "unityLink": "https://assetstore.unity.com/packages/tools/utilities/devmenu-debug-console-298912",
+    "docsLink": "https://docs.google.com/document/d/1AGZlYf3myGBPNn5xtfwQr34YB7K9E7LnloBS7AguQhQ/edit?usp=sharing",
+    "changelogLink": "https://docs.google.com/document/d/1kyZCpijrNlAM4bxaDz91ZKuYue8OZ3ekJR1L_nR7PpA/edit?usp=sharing"
   }
 ]
