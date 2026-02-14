@@ -48,5 +48,21 @@
     "unityLink": "https://prf.hn/click/camref:1101l4h3BC/pubref:publisherWebsite/ar:freeEventIcons/[p_id:1101l584176]/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F2d%2Fgui%2Ficons%2Ffree-holiday-event-icons-352420",
     "docsLink": "",
     "changelogLink": "https://docs.google.com/document/d/1PKtBB8uSdNHY5iPvgSZCeZfgXfBcg-pM5A5WJnTxYxI/edit?usp=sharing"
-  }
+  },
+  {
+    "id": "iconEditor",
+    "title": "Icon Editor | Creator",
+    "shortDescription": "Create custom game icons and UI icons fast with layered workflows. Perfect for 2D games and UI design.",
+    "category": "2D",
+    "longDescription": "combile backgrounds, effects, items. Then rotate, scale, set pocition or opacity to create uniqe icons for you game.",
+    "cover": "images/iconEditor/cover.png",
+    "screenshots": [
+      "images/iconEditor/screen1.png",
+      "images/iconEditor/screen2.png",
+      "images/iconEditor/screen3.png"
+    ],
+    "unityLink": "https://prf.hn/click/camref:1101l4h3BC/pubref:publisherWebsite/ar:IconEditor/[p_id:1101l584176]/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F2d%2Fgui%2Ficons%2Ficon-editor-creator-346476",
+    "docsLink": "https://docs.google.com/document/d/1_lVeixJ-nETQ7GjL9GmDL8PHcS7icbQu_4Xt42kIac0/edit?usp=sharing",
+    "changelogLink": "https://docs.google.com/document/d/1MXwluRqpzUi6yyvBU64NnK99tDJdYkHaFeLb4BUpolM/edit?usp=sharing"
+  },
 ]
