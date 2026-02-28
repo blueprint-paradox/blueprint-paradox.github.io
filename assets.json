@@ -68,7 +68,7 @@
   {
     "id": "aiIconGenerator",
     "title": "AI Icon Generator",
-    "shortDescription": "Generate images right inside unity.",
+    "shortDescription": "Generate images right inside the Unity.",
     "category": "AI",
     "longDescription": "Generate hundreds of images in one click with AUTO generation. Choose from various predefined styles. Set reference images. Generate anything you want.",
     "cover": "images/aiIconGenerator/cover.png",
@@ -82,5 +82,25 @@
     "unityLink": "https://af.unity.com/sr/camref:1101l4h3BC/pubref:publisherWebAIIconGenerator/ar:AI%20Icon%20Generator/[p_id:1101l584176]/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Ftools%2Fgenerative-ai%2Fai-icon-generator-347934",
     "docsLink": "https://docs.google.com/document/d/1vFTlmfPzDv18EzOPNIiWu2rWz8VjphGfEtfDYJr4bCw/edit?usp=sharing",
     "changelogLink": "https://docs.google.com/document/d/1JvLUlZpnfe8NIlhG0SOMHrdfoe_jxGNYZgGZ5E4re2c/edit?usp=sharing"
+  },
+  {
+    "id": "tmpSpriteAssetManager",
+    "title": "TextMeshPro Sprite Manager",
+    "shortDescription": "One-click create, search, copy rich text tags, favorite, ping, rename, set metrics",
+    "category": "Tools",
+    "longDescription": "Will help you with the most anoying things about TMP sprite asstes. Creating, moving to TMP resources forlder, writing same rich text tags over and over again.",
+    "cover": "images/tmpSpriteManager/cover.png",
+    "screenshots": [
+      "images/tmpSpriteManager/screen1.png",
+      "images/tmpSpriteManager/screen2.png",
+      "images/tmpSpriteManager/screen3.png",
+      "images/tmpSpriteManager/screen4.png",
+      "images/tmpSpriteManager/screen5.png",
+      "images/tmpSpriteManager/screen6.png",
+      "images/tmpSpriteManager/screen7.png",
+    ],
+    "unityLink": "https://af.unity.com/sr/camref:1101l4h3BC/pubref:publisherWebTMPSpriteManager/ar:TMP%20Sprite%20Manager/[p_id:1101l584176]/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Ftools%2Fgui%2Ftextmeshpro-sprite-manager-356266",
+    "docsLink": "https://docs.google.com/document/d/1LRK_KtmJowKvozytUdB6MyB1Fj3eCIOvfVsstyP_z30/edit?usp=sharing",
+    "changelogLink": "https://docs.google.com/document/d/1ymecoWUp-l1UCW6ueQDvj6dDf7C-eeGpuWQ_HogtkOA/edit?usp=sharing"
   }
 ]
