@@ -64,5 +64,23 @@
     "unityLink": "https://prf.hn/click/camref:1101l4h3BC/pubref:publisherWebsite/ar:IconEditor/[p_id:1101l584176]/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2F2d%2Fgui%2Ficons%2Ficon-editor-creator-346476",
     "docsLink": "https://docs.google.com/document/d/1_lVeixJ-nETQ7GjL9GmDL8PHcS7icbQu_4Xt42kIac0/edit?usp=sharing",
     "changelogLink": "https://docs.google.com/document/d/1MXwluRqpzUi6yyvBU64NnK99tDJdYkHaFeLb4BUpolM/edit?usp=sharing"
+  },
+  {
+    "id": "aiIconGenerator",
+    "title": "AI Icon Generator",
+    "shortDescription": "Generate images right inside unity.",
+    "category": "AI",
+    "longDescription": "Generate hundreds of images in one click with AUTO generation. Choose from various predefined styles. Set reference images. Generate anything you want.",
+    "cover": "images/aiIconGenerator/cover.png",
+    "screenshots": [
+      "images/aiIconGenerator/screen1.png",
+      "images/aiIconGenerator/screen2.png",
+      "images/aiIconGenerator/screen3.png",
+      "images/aiIconGenerator/screen4.png",
+      "images/aiIconGenerator/screen5.png"
+    ],
+    "unityLink": "https://af.unity.com/sr/camref:1101l4h3BC/pubref:publisherWebAIIconGenerator/ar:AI%20Icon%20Generator/[p_id:1101l584176]/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Ftools%2Fgenerative-ai%2Fai-icon-generator-347934",
+    "docsLink": "https://docs.google.com/document/d/1vFTlmfPzDv18EzOPNIiWu2rWz8VjphGfEtfDYJr4bCw/edit?usp=sharing",
+    "changelogLink": "https://docs.google.com/document/d/1JvLUlZpnfe8NIlhG0SOMHrdfoe_jxGNYZgGZ5E4re2c/edit?usp=sharing"
   }
 ]
